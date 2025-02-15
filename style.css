@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(238, 248, 245);
+    color: brown;
+}
+.one{
+    width: 100px;
+    border-style: groove ridge dashed groove;
+    border-width: 7px 30px 7px 30px;
+    border-radius: 150px 150px 0px 0px;
+    border-color: rgb(89, 182, 89);
+    padding: 30px;
+}
+.two{
+    width: 100px;
+    border-style: none double none double;
+    border-width: 35px;
+    padding: 50px;
+    border-radius: 50px 50px 150px 150px;
+    border-color: rgb(212, 47, 102);
+ 
+}
+.three{
+    width: 80px;
+    border-style: ridge ridge ridge ridge;
+    border-width: 35px;
+    padding: 50px;
+    border-radius: 0px 150px 150px 0px;
+    border-color: rgb(212, 47, 102);
+ 
+}
+.four{
+    width: 150px;
+    height: 100px;
+    border-style: solid inset solid outset;
+    border-width: 4px 40px 4px 40px;
+    border-radius: 8px 150px 8px 150px ;
+    border-color: rgb(31, 162, 250) rgb(27, 216, 250) rgb(240, 51, 114) rgb(247, 64, 119);
+ 
+}
